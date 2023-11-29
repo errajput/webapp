@@ -15,10 +15,11 @@ const addButtonElement = document.querySelector('.addButton');
 const unOrderListElement = document.querySelector('ul');
 const removeButtons = document.querySelectorAll('.removeButton');
 
-
 function addValue() {
+if (valueElement.value) {
   // console.log(valueElement.value);
   //   4- Element Create
+  //TODO: Handle Empty Space in value
   const liElement = document.createElement('li');
   const removeButton = document.createElement('button');
 
@@ -30,6 +31,10 @@ function addValue() {
   valueElement.value = '';
 
   unOrderListElement.append(liElement);
+}
+else {
+    alert('No Value to Add.');
+  }
 }
 function removeValue(e) {
   
