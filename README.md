@@ -69,9 +69,9 @@
 
 2. variables
 
-- var
-- let
-- const
+   - var
+   - let
+   - const
 
 3. functions, arrow function
 
