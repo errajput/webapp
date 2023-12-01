@@ -68,9 +68,10 @@
 1. Comments
 
 2. variables
-   -var
-   -let
-   -const
+
+- var
+- let
+- const
 
 3. functions, arrow function
 
