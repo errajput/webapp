@@ -64,6 +64,17 @@
    - Grid\*
 
 ### JS
+1. Comments
+2. variables
+   -var
+   -let
+   -const
+3. functions, arrow function
+4. objects, classes, event
+5. fetch,json, Fetch API
+6. errors
+7. maps,getters, setters
+8. DOM, BOM
 
 1. Comments
 
@@ -87,22 +98,13 @@
 ### Git and GitHub
 
 1. `git init` -- One Time
-
----
-
 2. `git add .` -- Every Time
 3. `git commit -m "MESSAGE"` -- Every Time
-
----
-
 4. `git push` -- Every Time
 
 ---
 
-1. `github` -- repository
-
----
-
+1. `github` -- creat repository
 2. delete repository
 
 ### NodeJS, npm
