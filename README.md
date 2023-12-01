@@ -65,6 +65,25 @@
 
 ### JS
 
+1. Comments
+
+2. variables
+   -var
+   -let
+   -const
+
+3. functions, arrow function
+
+4. objects, classes, event
+
+5. fetch,json, Fetch API
+
+6. errors
+
+7. maps,getters, setters
+
+8. DOM, BOM
+
 ### Git and GitHub
 
 1. `git init` -- One Time
