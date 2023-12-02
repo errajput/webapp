@@ -9,13 +9,13 @@
 
 .footer-section {
   width: 100%;
-  display: flex;
   color: white;
+  position: fixed;
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 1rem 0;
-  position: fixed;
   background-color: rgb(32, 30, 30);
+  bottom: 0;
 }
 
 .footer-section h2 {
@@ -35,7 +35,7 @@
 
 .footer-section p {
   transition: all 0.2s linear;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.4em;
 }
 
 .footer-section .content {
