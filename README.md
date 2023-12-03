@@ -84,6 +84,8 @@
 7. maps,getters, setters
 
 8. DOM, BOM
+9. string, array, booleans, loops
+10. typeof, scope, hoisting
 
 ### Git and GitHub
 
