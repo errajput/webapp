@@ -2,15 +2,28 @@
 
 ## Notes
 
+### HTML
+
+- Elements
+- Attributes
+
+### CSS
+
+- Selector
+- Property
+- Value
+
+### JS
+
+- Selector(Value, methods)
+- Action
+- Handler(Function)
+
+### git
+
 1. `git init` -- One Time
-
----
-
 2. `git add .` -- Every Time
 3. `git commit -m "MESSAGE"` -- Every Time
-
----
-
 4. `git push` -- Every Time
 
 ---
@@ -65,27 +78,31 @@
 
 ### JS
 
-1. Comments
-
-2. variables
-
-   - var
-   - let
-   - const
-
-3. functions, arrow function
-
-4. objects, classes, event
-
-5. fetch,json, Fetch API
-
-6. errors
-
-7. maps,getters, setters
-
-8. DOM, BOM
-9. string, array, booleans, loops
-10. typeof, scope, hoisting
+1. Common JavaScript
+   - Scripting
+     - Comments, variables, var, let, const
+     - Data Types - String, Array, Boolean, `typeof`, Number, Date, Math, Object
+     - Type Conversion
+     - Operators - Arithmetic, Comparison, Logical
+     - Control Statements
+       - Conditional - if, else, switch
+       - Lopping - for, while, do-while, break, continue
+     - Errors Handling - try, catch, finally
+   - Functional
+     - hoisting, scope
+     - functions, arrow function
+   - OOP
+     - objects, classes, getters, setters
+     - Method Overriding
+   - Modules
+2. Browser JavaScript
+   - DOM, BOM
+   - Event, Element
+   - JSON, Fetch API
+3. Node JavaScript
+   - npm, node, npx
+   - NodeJS Build-in Modules
+   - Third Party
 
 ### Git and GitHub
 
@@ -110,3 +127,14 @@
 ---
 
 ### Angular/ReactJS
+
+## Todo
+
+1. Web - Even Odd
+   - event - input, change, click
+2. NodeJS - Install
+3. NodeJS - Hello World
+
+---
+
+1. title case function

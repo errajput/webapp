@@ -5,7 +5,7 @@ const userDetailTableElement = document.querySelector("#userDetailTable");
 function search() {
   let input = document.getElementById("search").value;
   input = input.toLowerCase();
-  let x = document.getElementsByIdName("userDetailForm");
+  let x = document.getElementsByClassName("search");
 }
 function addUserDetail(e) {
   e.preventDefault();
