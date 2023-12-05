@@ -130,11 +130,18 @@
 
 ## Todo
 
-1. Web - Even Odd
-   - event - input, change, click
-2. NodeJS - Install
-3. NodeJS - Hello World
+- [x] Web - Even Odd
+  - event - input, change, click
+- [x] NodeJS - Install
+- [x] NodeJS - Hello World
+- [ ] title case function
+- [ ] Web - Fibonacci Series
+  - [ ] N Numbers
+  - [ ] Start to End
+- [ ] Web - Tables in Table
+  - [ ] N Numbers
+  - [ ] Start to End
 
 ---
 
-1. title case function
+1. Search Box
