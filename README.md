@@ -136,11 +136,12 @@
 - [x] NodeJS - Hello World
 - [ ] title case function
 - [ ] Web - Fibonacci Series
-  - [ ] N Numbers
+  - [x] N Numbers
   - [ ] Start to End
 - [ ] Web - Tables in Table
-  - [ ] N Numbers
+  - [x] N Numbers
   - [ ] Start to End
+- [ ] Student Result
 
 ---
 

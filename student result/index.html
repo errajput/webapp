@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>student result</title>
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Student result</h1>
+
+    <label for="name">Name :</label>
+    <input type="text" id="name" />
+
+    <table>
+      <tr>
+        <th colspan="5">subject</th>
+      </tr>
+      <tr>
+        <th>Hindi</th>
+        <th>English</th>
+        <th>Math</th>
+        <th>total</th>
+        <th>pass or fall</th>
+      </tr>
+      <tr>
+        <td><input type="text" id="hindi" /></td>
+        <td><input type="text" id="english" /></td>
+        <td><input type="text" id="math" /></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+    <p>
+      <button id="submit">submit</button>
+    </p>
+    <script src="main.js"></script>
+  </body>
+</html>
