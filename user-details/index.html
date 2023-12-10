@@ -21,7 +21,7 @@
       pattern="[a-zA-Z ]+"
     />
 
-    <form id="userDetailForm">
+    <form action="http://127.0.0.1:8080/form-validation" method="post">
       <p>
         <label for="name">Name :</label>
         <input
@@ -53,15 +53,7 @@
       </p>
       <p>
         <label for="canVote">Can Vote :</label>
-        <input
-          type="checkbox"
-          name="canVote"
-          id="canVote"
-          value="true"
-          required
-          min="10"
-          max="50"
-        />
+        <input type="checkbox" name="canVote" id="canVote" value="true" />
       </p>
       <p>
         <button id="submit">Submit</button>
